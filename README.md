@@ -14,7 +14,7 @@ I develop full-stack web and mobile applications, with experience working across
 
 ## Featured work
 
-### Requid
+### [Requid](https://github.com/osmanvsz/requid)
 
 AI-assisted platform for creating, organizing and analyzing software requirements.
 
